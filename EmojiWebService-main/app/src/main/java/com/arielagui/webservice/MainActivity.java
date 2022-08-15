@@ -1,15 +1,11 @@
-package com.juanguachi.webservice;
+package com.arielagui.webservice;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.database.Cursor;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
-import android.widget.CursorAdapter;
 import android.widget.ListView;
-import android.widget.SimpleCursorAdapter;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;

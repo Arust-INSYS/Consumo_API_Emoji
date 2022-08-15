@@ -1,4 +1,4 @@
-package com.juanguachi.webservice;
+package com.arielagui.webservice;
 
 import org.junit.Test;
 
